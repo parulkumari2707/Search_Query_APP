@@ -14,7 +14,7 @@ This repository contains code for a simple web application built using Streamlit
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/langchain-search.git
+    git clone https://github.com/parulkumari2707/Search_Query_APP.git
     ```
 
 2. Navigate to the project directory:
